@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7c9daec483b412101954f4b6feaad3c3" extends="sys_import_set_row" label="Imp Tmpl X 967657 Cmaster Certifications" max_length="40" name="u_imp_tmpl_x_967657_cmaster_certifications" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Account Parent Partner" label="Account Parent Partner" max_length="40" name="u_account_parent_partner" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=User Email" label="User Email" max_length="40" name="u_user_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Certification Date" label="Certification Date" max_length="40" name="u_certification_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Account Country" label="Account Country" max_length="40" name="u_account_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Certification" label="Certification" max_length="40" name="u_certification" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=User Type" label="User Type" max_length="40" name="u_user_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=User Name" label="User Name" max_length="32" name="u_user_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Expired Date" label="Expired Date" max_length="40" name="u_expired_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Account Partner Entity" label="Account Partner Entity" max_length="40" name="u_account_partner_entity" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Certification Type" label="Certification Type" max_length="40" name="u_certification_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Certification Renewed" label="Certification Renewed" max_length="40" name="u_certification_renewed" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Training Date" label="Training Date" max_length="40" name="u_training_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Expire Date" label="Expire Date" max_length="40" name="u_expire_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Account Region" label="Account Region" max_length="40" name="u_account_region" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Certification Status" label="Certification Status" max_length="40" name="u_certification_status" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4c6ce24483b412101954f4b6feaad30a" label="Certifications" max_length="40" name="x_967657_cmaster_certifications" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Expire Date" max_length="40" name="expire_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Training Date" max_length="40" name="training_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Account Region" max_length="40" name="account_region" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Account Partner Entity" max_length="40" name="account_partner_entity" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Certification Renewed" max_length="40" name="certification_renewed" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="User Type" max_length="40" name="user_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Expired Date" max_length="40" name="expired_date" type="string"/>
+        <element attributes="encode_utf8=false" label="User Name" max_length="32" name="user_name" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Account Parent Partner" max_length="40" name="account_parent_partner" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Account Country" max_length="40" name="account_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Certification Date" max_length="40" name="certification_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Certification Status" max_length="40" name="certification_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Current" sequence="0" value="Current"/>
+                <element inactive_on_update="false" label="At risk" sequence="0" value="At risk"/>
+                <element inactive_on_update="false" label="Trained" sequence="0" value="Trained"/>
+                <element inactive_on_update="false" label="Expired" sequence="0" value="Expired"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Certification Type" max_length="40" name="certification_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="mainline" sequence="0" value="mainline"/>
+                <element inactive_on_update="false" label="micro" sequence="0" value="micro"/>
+                <element inactive_on_update="false" label="accreditation" sequence="0" value="accreditation"/>
+                <element inactive_on_update="false" label="expert" sequence="0" value="expert"/>
+                <element inactive_on_update="false" label="suite" sequence="0" value="suite"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Certification" max_length="40" name="certification" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="User Email" max_length="40" name="user_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="user_name"/>
+        </index>
+    </element>
+</database>

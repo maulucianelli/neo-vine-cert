@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2024-10-11 12:13:14">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 11:37:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1ccf1c77830112101954f4b6feaad38d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>EUA</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Certification Master" source="x_967657_cmaster">2eeaea8083b412101954f4b6feaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Certification Master">2eeaea8083b412101954f4b6feaad3bd</sys_scope>
+        <sys_update_name>sys_portal_page_1ccf1c77830112101954f4b6feaad38d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 11:59:23</sys_updated_on>
+        <title>EUA</title>
+        <user/>
+        <view>new_tab_2</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="EUA">1ccf1c77830112101954f4b6feaad38d</page>
+                <summary>CSAs USA</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2024-10-11 12:09:02</sys_created_on>
+                <sys_id>09f66033834112101954f4b6feaad3e5</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2024-10-11 12:09:02</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:02">09f66033834112101954f4b6feaad3e5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:02</sys_created_on>
+                        <sys_id>05f66033834112101954f4b6feaad3e7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:02</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:02">09f66033834112101954f4b6feaad3e5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:02</sys_created_on>
+                        <sys_id>09f66033834112101954f4b6feaad3e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:02</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:02">09f66033834112101954f4b6feaad3e5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:02</sys_created_on>
+                        <sys_id>45f66033834112101954f4b6feaad3e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:02</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:02">09f66033834112101954f4b6feaad3e5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:02</sys_created_on>
+                        <sys_id>81f66033834112101954f4b6feaad3e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:02</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:02">09f66033834112101954f4b6feaad3e5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:02</sys_created_on>
+                        <sys_id>89f66033834112101954f4b6feaad3e5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:02</sys_updated_on>
+                        <value>ccd5e8bf830112101954f4b6feaad37d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:02">09f66033834112101954f4b6feaad3e5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:02</sys_created_on>
+                        <sys_id>8df66033834112101954f4b6feaad3e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:02</sys_updated_on>
+                        <value>CSAs USA</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:02">09f66033834112101954f4b6feaad3e5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:02</sys_created_on>
+                        <sys_id>c9f66033834112101954f4b6feaad3e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:02</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:02">09f66033834112101954f4b6feaad3e5</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:02</sys_created_on>
+                        <sys_id>cdf66033834112101954f4b6feaad3e5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:02</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="EUA">1ccf1c77830112101954f4b6feaad38d</page>
+                <summary>Suites</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2024-10-11 12:09:38</sys_created_on>
+                <sys_id>3d17e433834112101954f4b6feaad371</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2024-10-11 12:09:38</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:38">3d17e433834112101954f4b6feaad371</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:38</sys_created_on>
+                        <sys_id>3917e433834112101954f4b6feaad373</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:38</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:38">3d17e433834112101954f4b6feaad371</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:38</sys_created_on>
+                        <sys_id>3d17e433834112101954f4b6feaad372</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:38</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:38">3d17e433834112101954f4b6feaad371</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:38</sys_created_on>
+                        <sys_id>7917e433834112101954f4b6feaad372</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:38</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:38">3d17e433834112101954f4b6feaad371</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:38</sys_created_on>
+                        <sys_id>b117e433834112101954f4b6feaad373</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:38</sys_updated_on>
+                        <value>Suites</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:38">3d17e433834112101954f4b6feaad371</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:38</sys_created_on>
+                        <sys_id>b517e433834112101954f4b6feaad372</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:38</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:38">3d17e433834112101954f4b6feaad371</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:38</sys_created_on>
+                        <sys_id>bd17e433834112101954f4b6feaad371</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:38</sys_updated_on>
+                        <value>bdd56c7f830112101954f4b6feaad3e4</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:38">3d17e433834112101954f4b6feaad371</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:38</sys_created_on>
+                        <sys_id>f117e433834112101954f4b6feaad372</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:38</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:38">3d17e433834112101954f4b6feaad371</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:38</sys_created_on>
+                        <sys_id>fd17e433834112101954f4b6feaad372</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:38</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="EUA">1ccf1c77830112101954f4b6feaad38d</page>
+                <summary>Micros USA</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2024-10-11 12:09:24</sys_created_on>
+                <sys_id>6a07e433834112101954f4b6feaad37c</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2024-10-11 12:09:24</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:24">6a07e433834112101954f4b6feaad37c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:24</sys_created_on>
+                        <sys_id>2207e433834112101954f4b6feaad37d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:24</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:24">6a07e433834112101954f4b6feaad37c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:24</sys_created_on>
+                        <sys_id>2e07e433834112101954f4b6feaad37d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:24</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:24">6a07e433834112101954f4b6feaad37c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:24</sys_created_on>
+                        <sys_id>6607e433834112101954f4b6feaad37e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:24</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:24">6a07e433834112101954f4b6feaad37c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:24</sys_created_on>
+                        <sys_id>6a07e433834112101954f4b6feaad37d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:24</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:24">6a07e433834112101954f4b6feaad37c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:24</sys_created_on>
+                        <sys_id>a607e433834112101954f4b6feaad37d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:24</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:24">6a07e433834112101954f4b6feaad37c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:24</sys_created_on>
+                        <sys_id>e207e433834112101954f4b6feaad37d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:24</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:24">6a07e433834112101954f4b6feaad37c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:24</sys_created_on>
+                        <sys_id>ea07e433834112101954f4b6feaad37c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:24</sys_updated_on>
+                        <value>90e52cbf830112101954f4b6feaad374</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:24">6a07e433834112101954f4b6feaad37c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:24</sys_created_on>
+                        <sys_id>ee07e433834112101954f4b6feaad37d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:24</sys_updated_on>
+                        <value>Micros USA</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="EUA">1ccf1c77830112101954f4b6feaad38d</page>
+                <summary>CISs USA</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2024-10-11 12:10:27</sys_created_on>
+                <sys_id>7547ac33834112101954f4b6feaad301</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2024-10-11 12:10:27</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-10-11 05:10:27">7547ac33834112101954f4b6feaad301</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:10:27</sys_created_on>
+                        <sys_id>3947ac33834112101954f4b6feaad302</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:10:27</sys_updated_on>
+                        <value>CISs USA</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-10-11 05:10:27">7547ac33834112101954f4b6feaad301</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:10:27</sys_created_on>
+                        <sys_id>3d47ac33834112101954f4b6feaad301</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:10:27</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2024-10-11 05:10:27">7547ac33834112101954f4b6feaad301</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:10:27</sys_created_on>
+                        <sys_id>7547ac33834112101954f4b6feaad302</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:10:27</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-10-11 05:10:27">7547ac33834112101954f4b6feaad301</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:10:27</sys_created_on>
+                        <sys_id>b147ac33834112101954f4b6feaad302</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:10:27</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-10-11 05:10:27">7547ac33834112101954f4b6feaad301</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:10:27</sys_created_on>
+                        <sys_id>f547ac33834112101954f4b6feaad301</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:10:27</sys_updated_on>
+                        <value>64b56c7f830112101954f4b6feaad3a9</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-10-11 05:10:27">7547ac33834112101954f4b6feaad301</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:10:27</sys_created_on>
+                        <sys_id>fd47ac33834112101954f4b6feaad301</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:10:27</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="EUA">1ccf1c77830112101954f4b6feaad38d</page>
+                <summary>Implementers USA</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2024-10-11 12:09:52</sys_created_on>
+                <sys_id>9127a033834112101954f4b6feaad3e1</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2024-10-11 12:09:52</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:52">9127a033834112101954f4b6feaad3e1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:52</sys_created_on>
+                        <sys_id>1527a033834112101954f4b6feaad3e1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:52</sys_updated_on>
+                        <value>c6c52cbf830112101954f4b6feaad397</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:52">9127a033834112101954f4b6feaad3e1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:52</sys_created_on>
+                        <sys_id>1d27a033834112101954f4b6feaad3e1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:52</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:52">9127a033834112101954f4b6feaad3e1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:52</sys_created_on>
+                        <sys_id>5527a033834112101954f4b6feaad3e2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:52</sys_updated_on>
+                        <value>Implementers USA</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:52">9127a033834112101954f4b6feaad3e1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:52</sys_created_on>
+                        <sys_id>5927a033834112101954f4b6feaad3e1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:52</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:52">9127a033834112101954f4b6feaad3e1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:52</sys_created_on>
+                        <sys_id>9127a033834112101954f4b6feaad3e2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:52</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-10-11 05:09:52">9127a033834112101954f4b6feaad3e1</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:09:52</sys_created_on>
+                        <sys_id>dd27a033834112101954f4b6feaad3e1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:09:52</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="EUA">1ccf1c77830112101954f4b6feaad38d</page>
+                <summary>EUA</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2024-10-11 11:42:34</sys_created_on>
+                <sys_id>a9e0a0f7830112101954f4b6feaad3eb</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2024-10-11 11:44:00</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-10-11 04:42:34">a9e0a0f7830112101954f4b6feaad3eb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 11:42:34</sys_created_on>
+                        <sys_id>29e0a0f7830112101954f4b6feaad3ec</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 11:42:34</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-10-11 04:42:34">a9e0a0f7830112101954f4b6feaad3eb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 11:42:34</sys_created_on>
+                        <sys_id>2de0a0f7830112101954f4b6feaad3eb</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 11:44:00</sys_updated_on>
+                        <value>de31e8f7830112101954f4b6feaad321</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-10-11 04:42:34">a9e0a0f7830112101954f4b6feaad3eb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 11:42:34</sys_created_on>
+                        <sys_id>65e0a0f7830112101954f4b6feaad3ec</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 11:42:34</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-10-11 04:42:34">a9e0a0f7830112101954f4b6feaad3eb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 11:42:34</sys_created_on>
+                        <sys_id>a1e0a0f7830112101954f4b6feaad3ec</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 11:42:34</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-10-11 04:42:34">a9e0a0f7830112101954f4b6feaad3eb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 11:42:34</sys_created_on>
+                        <sys_id>e9e0a0f7830112101954f4b6feaad3ec</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 11:44:00</sys_updated_on>
+                        <value>EUA</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="EUA">1ccf1c77830112101954f4b6feaad38d</page>
+                <summary>Pre - Sales USA</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2024-10-11 12:08:48</sys_created_on>
+                <sys_id>ade62433834112101954f4b6feaad338</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2024-10-11 12:08:48</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:48">ade62433834112101954f4b6feaad338</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:48</sys_created_on>
+                        <sys_id>21e62433834112101954f4b6feaad339</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:48</sys_updated_on>
+                        <value>a2e56c7f830112101954f4b6feaad357</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:48">ade62433834112101954f4b6feaad338</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:48</sys_created_on>
+                        <sys_id>25e62433834112101954f4b6feaad33a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:48</sys_updated_on>
+                        <value>Pre - Sales USA</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:48">ade62433834112101954f4b6feaad338</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:48</sys_created_on>
+                        <sys_id>29e62433834112101954f4b6feaad339</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:48</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:48">ade62433834112101954f4b6feaad338</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:48</sys_created_on>
+                        <sys_id>61e62433834112101954f4b6feaad33a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:48</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:48">ade62433834112101954f4b6feaad338</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:48</sys_created_on>
+                        <sys_id>65e62433834112101954f4b6feaad339</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:48</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:48">ade62433834112101954f4b6feaad338</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:48</sys_created_on>
+                        <sys_id>a9e62433834112101954f4b6feaad33a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:48</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:48">ade62433834112101954f4b6feaad338</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:48</sys_created_on>
+                        <sys_id>ade62433834112101954f4b6feaad339</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:48">ade62433834112101954f4b6feaad338</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:48</sys_created_on>
+                        <sys_id>e9e62433834112101954f4b6feaad339</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="EUA">1ccf1c77830112101954f4b6feaad38d</page>
+                <summary>Sales USA</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2024-10-11 12:08:25</sys_created_on>
+                <sys_id>f7c6a4ff830112101954f4b6feaad310</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2024-10-11 12:08:25</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:25">f7c6a4ff830112101954f4b6feaad310</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:25</sys_created_on>
+                        <sys_id>37c6a4ff830112101954f4b6feaad311</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:25</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:25">f7c6a4ff830112101954f4b6feaad310</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:25</sys_created_on>
+                        <sys_id>73c6a4ff830112101954f4b6feaad311</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:25</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:25">f7c6a4ff830112101954f4b6feaad310</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:25</sys_created_on>
+                        <sys_id>7bc6a4ff830112101954f4b6feaad310</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:25</sys_updated_on>
+                        <value>55f5e8bf830112101954f4b6feaad355</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:25">f7c6a4ff830112101954f4b6feaad310</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:25</sys_created_on>
+                        <sys_id>7fc6a4ff830112101954f4b6feaad311</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:25</sys_updated_on>
+                        <value>Sales USA</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:25">f7c6a4ff830112101954f4b6feaad310</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:25</sys_created_on>
+                        <sys_id>bbc6a4ff830112101954f4b6feaad311</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:25</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:25">f7c6a4ff830112101954f4b6feaad310</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:25</sys_created_on>
+                        <sys_id>bfc6a4ff830112101954f4b6feaad310</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:25</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:25">f7c6a4ff830112101954f4b6feaad310</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:25</sys_created_on>
+                        <sys_id>f3c6a4ff830112101954f4b6feaad312</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:25</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:25">f7c6a4ff830112101954f4b6feaad310</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:25</sys_created_on>
+                        <sys_id>f7c6a4ff830112101954f4b6feaad311</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:25</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="EUA">1ccf1c77830112101954f4b6feaad38d</page>
+                <summary>Mainlines USA</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2024-10-11 12:08:20</sys_created_on>
+                <sys_id>fec6a4ff830112101954f4b6feaad309</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2024-10-11 12:08:21</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:20">fec6a4ff830112101954f4b6feaad309</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:21</sys_created_on>
+                        <sys_id>32c6a4ff830112101954f4b6feaad30b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:21</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:20">fec6a4ff830112101954f4b6feaad309</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:21</sys_created_on>
+                        <sys_id>3ec6a4ff830112101954f4b6feaad30b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:21</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:20">fec6a4ff830112101954f4b6feaad309</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:20</sys_created_on>
+                        <sys_id>76c6a4ff830112101954f4b6feaad30a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:20</sys_updated_on>
+                        <value>43f56c7f830112101954f4b6feaad3d2</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:20">fec6a4ff830112101954f4b6feaad309</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:21</sys_created_on>
+                        <sys_id>7ac6a4ff830112101954f4b6feaad30b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:21</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:20">fec6a4ff830112101954f4b6feaad309</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:21</sys_created_on>
+                        <sys_id>b6c6a4ff830112101954f4b6feaad30b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:21</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:20">fec6a4ff830112101954f4b6feaad309</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:21</sys_created_on>
+                        <sys_id>cbc6a4ff830112101954f4b6feaad30c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:21</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:20">fec6a4ff830112101954f4b6feaad309</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:21</sys_created_on>
+                        <sys_id>f2c6a4ff830112101954f4b6feaad30b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:21</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-10-11 05:08:20">fec6a4ff830112101954f4b6feaad309</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:08:21</sys_created_on>
+                        <sys_id>fec6a4ff830112101954f4b6feaad30b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:08:21</sys_updated_on>
+                        <value>Mainlines USA</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="EUA">1ccf1c77830112101954f4b6feaad38d</page>
+                <summary>CADs USA</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2024-10-11 12:10:19</sys_created_on>
+                <sys_id>ff372c33834112101954f4b6feaad388</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2024-10-11 12:10:19</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2024-10-11 05:10:19">ff372c33834112101954f4b6feaad388</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:10:19</sys_created_on>
+                        <sys_id>3f372c33834112101954f4b6feaad389</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:10:19</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2024-10-11 05:10:19">ff372c33834112101954f4b6feaad388</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:10:19</sys_created_on>
+                        <sys_id>73372c33834112101954f4b6feaad389</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:10:19</sys_updated_on>
+                        <value>9fb5e8bf830112101954f4b6feaad369</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2024-10-11 05:10:19">ff372c33834112101954f4b6feaad388</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:10:19</sys_created_on>
+                        <sys_id>7b372c33834112101954f4b6feaad389</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:10:19</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2024-10-11 05:10:19">ff372c33834112101954f4b6feaad388</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:10:19</sys_created_on>
+                        <sys_id>b3372c33834112101954f4b6feaad38a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:10:19</sys_updated_on>
+                        <value>CADs USA</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2024-10-11 05:10:19">ff372c33834112101954f4b6feaad388</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:10:19</sys_created_on>
+                        <sys_id>b7372c33834112101954f4b6feaad389</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:10:19</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2024-10-11 05:10:19">ff372c33834112101954f4b6feaad388</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2024-10-11 12:10:19</sys_created_on>
+                        <sys_id>ff372c33834112101954f4b6feaad389</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2024-10-11 12:10:19</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

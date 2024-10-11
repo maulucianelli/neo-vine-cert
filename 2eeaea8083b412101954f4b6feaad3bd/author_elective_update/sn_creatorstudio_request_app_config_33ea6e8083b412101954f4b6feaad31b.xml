@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_creatorstudio_request_app_config">
+    <sn_creatorstudio_request_app_config action="DELETE">
+        <color>grouped-blue</color>
+        <icon>vacation-outline</icon>
+        <name>Certification Master</name>
+        <request_table>x_967657_cmaster_request</request_table>
+        <sys_class_name>sn_creatorstudio_request_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-17 19:52:45</sys_created_on>
+        <sys_id>33ea6e8083b412101954f4b6feaad31b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Certification Master</sys_name>
+        <sys_package display_value="Certification Master" source="x_967657_cmaster">2eeaea8083b412101954f4b6feaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Certification Master">2eeaea8083b412101954f4b6feaad3bd</sys_scope>
+        <sys_update_name>sn_creatorstudio_request_app_config_33ea6e8083b412101954f4b6feaad31b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-17 19:52:45</sys_updated_on>
+    </sn_creatorstudio_request_app_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Certification Master">2eeaea8083b412101954f4b6feaad3bd</application>
+        <file_path/>
+        <instance_id>17d820f0db764e9c2f082a5913961961</instance_id>
+        <instance_name>dev274544</instance_name>
+        <name>sn_creatorstudio_request_app_config_33ea6e8083b412101954f4b6feaad31b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_creatorstudio_request_app_config"><sn_creatorstudio_request_app_config action="INSERT_OR_UPDATE"><color>grouped-blue</color><icon>vacation-outline</icon><name>Certification Master</name><request_table>x_967657_cmaster_request</request_table><sys_class_name>sn_creatorstudio_request_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-17 19:52:45</sys_created_on><sys_id>33ea6e8083b412101954f4b6feaad31b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Certification Master</sys_name><sys_package display_value="Certification Master" source="x_967657_cmaster">2eeaea8083b412101954f4b6feaad3bd</sys_package><sys_policy/><sys_scope display_value="Certification Master">2eeaea8083b412101954f4b6feaad3bd</sys_scope><sys_update_name>sn_creatorstudio_request_app_config_33ea6e8083b412101954f4b6feaad31b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-17 19:52:45</sys_updated_on></sn_creatorstudio_request_app_config></record_update>]]></payload>
+        <payload_hash>-405739886</payload_hash>
+        <record_name>Certification Master</record_name>
+        <reverted_from/>
+        <source>a2eaea8083b412101954f4b6feaad3e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-17 19:52:45</sys_created_on>
+        <sys_id>37ea6e8083b412101954f4b6feaad31d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192018b63a90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-17 19:52:45</sys_updated_on>
+        <type>Request App Config</type>
+        <update_guid>3bea6e800bb41210fee5a49ad7027b1c</update_guid>
+        <update_guid_history>3bea6e800bb41210fee5a49ad7027b1c:-405739886</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Certification Master">477b2ec083b412101954f4b6feaad3ba</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-17 19:55:09</sys_created_on>
+        <sys_db_object display_value="" name="sn_creatorstudio_request_app_config">sn_creatorstudio_request_app_config</sys_db_object>
+        <sys_id>0c2a744b988b4ae8a1593401ff5fd990</sys_id>
+        <sys_metadata>33ea6e8083b412101954f4b6feaad31b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Certification Master</sys_name>
+        <sys_package display_value="Certification Master" source="x_967657_cmaster">2eeaea8083b412101954f4b6feaad3bd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Certification Master">2eeaea8083b412101954f4b6feaad3bd</sys_scope>
+        <sys_scope_delete display_value="">1332a822a27843808654c80ab4c7d764</sys_scope_delete>
+        <sys_update_name>sn_creatorstudio_request_app_config_33ea6e8083b412101954f4b6feaad31b</sys_update_name>
+        <sys_update_version display_value="sn_creatorstudio_request_app_config_33ea6e8083b412101954f4b6feaad31b">37ea6e8083b412101954f4b6feaad31d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-17 19:55:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

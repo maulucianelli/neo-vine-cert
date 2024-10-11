@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="certification_type" table="x_967657_cmaster_certifications" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>certification_type</element>
+            <name>x_967657_cmaster_certifications</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-17 19:59:09</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>certification_type</sys_name>
+            <sys_package display_value="Certification Master" source="x_967657_cmaster">2eeaea8083b412101954f4b6feaad3bd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Certification Master">2eeaea8083b412101954f4b6feaad3bd</sys_scope>
+            <sys_update_name>sys_choice_x_967657_cmaster_certifications_certification_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-17 19:59:09</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>certification_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>accreditation</label>
+            <language>en</language>
+            <name>x_967657_cmaster_certifications</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-17 19:59:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-17 19:59:09</sys_updated_on>
+            <value>accreditation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>certification_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>expert</label>
+            <language>en</language>
+            <name>x_967657_cmaster_certifications</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-10 18:04:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-10 18:04:56</sys_updated_on>
+            <value>expert</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>certification_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>mainline</label>
+            <language>en</language>
+            <name>x_967657_cmaster_certifications</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-17 19:59:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-17 19:59:09</sys_updated_on>
+            <value>mainline</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>certification_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>micro</label>
+            <language>en</language>
+            <name>x_967657_cmaster_certifications</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-17 19:59:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-17 19:59:09</sys_updated_on>
+            <value>micro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>certification_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>suite</label>
+            <language>en</language>
+            <name>x_967657_cmaster_certifications</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-17 19:59:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-17 19:59:14</sys_updated_on>
+            <value>suite</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

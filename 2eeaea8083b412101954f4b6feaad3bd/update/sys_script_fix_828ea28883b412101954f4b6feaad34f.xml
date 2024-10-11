@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <before>false</before>
+        <description/>
+        <name>Run Pro Suites</name>
+        <record_for_rollback>true</record_for_rollback>
+        <script><![CDATA[function returnPE(user) {
+    var gr = new GlideRecord('x_967657_cmaster_certifications');
+    gr.addEncodedQuery('certification=MC - Predictive Intelligence^user_name=' + user);
+    gr.query();
+    if (gr.next()) {
+        return true;
+    }
+}
+
+function returnPA(user) {
+    var gr = new GlideRecord('x_967657_cmaster_certifications');
+    gr.addEncodedQuery('certification=MC - Performance Analytics^user_name=' + user);
+    gr.query();
+    if (gr.next()) {
+        return true;
+    }
+}
+
+function returnVA(user) {
+    var gr = new GlideRecord('x_967657_cmaster_certifications');
+    gr.addEncodedQuery('certification=MC - Virtual Agent^user_name=' + user);
+    gr.query();
+    if (gr.next()) {
+        return true;
+    }
+}
+
+var gr = new GlideRecord('x_967657_cmaster_certifications');
+gr.addEncodedQuery('certificationINCIS - Customer Service Management,CIS - Human Resources,CIS - IT Service Management^certification_status=Current');
+gr.query();
+while (gr.next()) {
+    if (returnVA(gr.user_name) && returnPA(gr.user_name) && returnPE(gr.user_name)) {
+        var ga = new GlideRecord('x_967657_cmaster_pro_suite');
+        ga.initialize();
+        ga.user = gr.user_name.getDisplayValue();
+		ga.mainline = gr.certification;
+		ga.status = "Ok";
+        ga.insert();
+    }
+	else if  (!returnVA(gr.user_name) || !returnPA(gr.user_name) || !returnPE(gr.user_name)) {
+        var ga = new GlideRecord('x_967657_cmaster_pro_suite');
+        ga.initialize();
+        ga.user = gr.user_name.getDisplayValue();
+		ga.mainline = gr.certification;
+		ga.status = "Pending";
+        ga.insert();
+    }
+}]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-17 20:18:51</sys_created_on>
+        <sys_id>828ea28883b412101954f4b6feaad34f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Run Pro Suites</sys_name>
+        <sys_package display_value="Certification Master" source="x_967657_cmaster">2eeaea8083b412101954f4b6feaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Certification Master">2eeaea8083b412101954f4b6feaad3bd</sys_scope>
+        <sys_update_name>sys_script_fix_828ea28883b412101954f4b6feaad34f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-17 20:21:55</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>

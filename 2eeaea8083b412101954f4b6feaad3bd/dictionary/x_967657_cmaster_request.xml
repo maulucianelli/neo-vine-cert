@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" db_object_id="72eaea8083b412101954f4b6feaad3ec" extends="sn_creatorstudio_task" label="Certification Master Request" max_length="40" name="x_967657_cmaster_request" type="collection"/>
-</database>

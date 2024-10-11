@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>name</element>
+        <id/>
+        <label>EUA</label>
+        <language>en</language>
+        <name>pa_tabs</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-11 11:37:35</sys_created_on>
+        <sys_id>10cf1c77830112101954f4b6feaad397</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>EUA</sys_name>
+        <sys_package display_value="Certification Master" source="x_967657_cmaster">2eeaea8083b412101954f4b6feaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Certification Master">2eeaea8083b412101954f4b6feaad3bd</sys_scope>
+        <sys_update_name>sys_translated_10cf1c77830112101954f4b6feaad397</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-11 11:59:23</sys_updated_on>
+        <value>18cf1c77830112101954f4b6feaad391EUA</value>
+    </sys_translated>
+</record_update>

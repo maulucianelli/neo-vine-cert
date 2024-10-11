@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>true</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Certification Master Request</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_967657_cmaster_request</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Request Task" name="sn_creatorstudio_task">06a6edc083b412101954f4b6feaad350</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-17 19:52:40</sys_created_on>
+        <sys_id>72eaea8083b412101954f4b6feaad3ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cmaster Request</sys_name>
+        <sys_package display_value="Certification Master" source="x_967657_cmaster">2eeaea8083b412101954f4b6feaad3bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Certification Master">2eeaea8083b412101954f4b6feaad3bd</sys_scope>
+        <sys_update_name>sys_db_object_72eaea8083b412101954f4b6feaad3ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-17 19:52:40</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Certification Master">2eeaea8083b412101954f4b6feaad3bd</application>
+        <file_path/>
+        <instance_id>17d820f0db764e9c2f082a5913961961</instance_id>
+        <instance_name>dev274544</instance_name>
+        <name>sys_db_object_72eaea8083b412101954f4b6feaad3ec</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>true</delete_access><is_extendable>false</is_extendable><label>Certification Master Request</label><live_feed_enabled>false</live_feed_enabled><name>x_967657_cmaster_request</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Request Task" name="sn_creatorstudio_task">06a6edc083b412101954f4b6feaad350</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-17 19:52:40</sys_created_on><sys_id>72eaea8083b412101954f4b6feaad3ec</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cmaster Request</sys_name><sys_package display_value="Certification Master" source="x_967657_cmaster">2eeaea8083b412101954f4b6feaad3bd</sys_package><sys_policy/><sys_scope display_value="Certification Master">2eeaea8083b412101954f4b6feaad3bd</sys_scope><sys_update_name>sys_db_object_72eaea8083b412101954f4b6feaad3ec</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-17 19:52:40</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>93743674</payload_hash>
+        <record_name>Certification Master Request</record_name>
+        <reverted_from/>
+        <source>a2eaea8083b412101954f4b6feaad3e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-17 19:52:41</sys_created_on>
+        <sys_id>72ea2e8083b412101954f4b6feaad319</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192018b54b30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-17 19:52:41</sys_updated_on>
+        <type>Table</type>
+        <update_guid>b6ea2e80c7b412107652683477d8e618</update_guid>
+        <update_guid_history>b6ea2e80c7b412107652683477d8e618:93743674</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-17 19:55:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>b10e7f084f8f43619c21fbb4c0dcd641</sys_id>
+        <sys_metadata>72eaea8083b412101954f4b6feaad3ec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cmaster Request</sys_name>
+        <sys_package display_value="Certification Master" source="x_967657_cmaster">2eeaea8083b412101954f4b6feaad3bd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Certification Master">2eeaea8083b412101954f4b6feaad3bd</sys_scope>
+        <sys_scope_delete display_value="">1332a822a27843808654c80ab4c7d764</sys_scope_delete>
+        <sys_update_name>sys_db_object_72eaea8083b412101954f4b6feaad3ec</sys_update_name>
+        <sys_update_version display_value="sys_db_object_72eaea8083b412101954f4b6feaad3ec">72ea2e8083b412101954f4b6feaad319</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-17 19:55:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
