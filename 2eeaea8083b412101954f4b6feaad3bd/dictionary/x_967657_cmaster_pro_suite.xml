@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="ee2e2a4883b412101954f4b6feaad37f" label="Pro Suite" max_length="40" name="x_967657_cmaster_pro_suite" type="collection">
         <element label="Mainline" max_length="40" name="mainline" type="string"/>
+        <element label="New Translated Text" max_length="40" name="u_translated_text_1" type="translated_text"/>
         <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
         <element label="Status" max_length="40" name="status" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
